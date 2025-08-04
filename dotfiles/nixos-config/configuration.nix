@@ -6,6 +6,7 @@
     [ 
       ./hardware-configuration.nix
       <home-manager/nixos>
+      ./hyprland.nix
     ];
 
 
