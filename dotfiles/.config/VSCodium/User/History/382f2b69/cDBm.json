@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "apc.imports": [
+        "file:///home/ijadux2/.vscode-oss/extensions/brandonkirbyson.vscode-animations-2.0.1-universal/dist/updateHandler.js"
+    ]
+}

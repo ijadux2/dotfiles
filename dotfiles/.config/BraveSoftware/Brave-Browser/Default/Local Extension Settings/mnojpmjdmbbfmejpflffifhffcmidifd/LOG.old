@@ -1,0 +1,30 @@
+2025/08/03-13:24:47.902 a76 Reusing MANIFEST /home/ijadux2/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/08/03-13:24:47.902 a76 Recovering log #6
+2025/08/03-13:24:47.914 a76 Reusing old log /home/ijadux2/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000006.log 
+2025/08/03-13:31:49.519 a76 Compacting 1@1 + 1@2 files
+2025/08/03-13:31:49.536 a76 Generated table #9@1: 14 keys, 50818 bytes
+2025/08/03-13:31:49.536 a76 Compacted 1@1 + 1@2 files => 50818 bytes
+2025/08/03-13:31:49.538 a76 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/03-13:31:49.538 a76 Delete type=2 #7
+2025/08/03-13:31:49.538 a76 Delete type=2 #5
+2025/08/03-13:32:39.542 a76 Level-0 table #11: started
+2025/08/03-13:32:39.554 a76 Level-0 table #11: 242383 bytes OK
+2025/08/03-13:32:39.556 a76 Delete type=0 #6
+2025/08/03-13:44:49.892 a76 Compacting 1@1 + 1@2 files
+2025/08/03-13:44:49.903 a76 Generated table #12@1: 17 keys, 51861 bytes
+2025/08/03-13:44:49.903 a76 Compacted 1@1 + 1@2 files => 51861 bytes
+2025/08/03-13:44:49.905 a76 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/03-13:44:49.905 a76 Delete type=2 #11
+2025/08/03-13:44:49.905 a76 Delete type=2 #9
+2025/08/03-13:50:10.141 a76 Level-0 table #14: started
+2025/08/03-13:50:10.146 a76 Level-0 table #14: 253251 bytes OK
+2025/08/03-13:50:10.148 a76 Delete type=0 #10
+2025/08/03-13:54:30.131 a76 Level-0 table #16: started
+2025/08/03-13:54:30.153 a76 Level-0 table #16: 245016 bytes OK
+2025/08/03-13:54:30.155 a76 Delete type=0 #13
+2025/08/03-14:01:50.343 a76 Compacting 1@0 + 1@1 files
+2025/08/03-14:01:50.355 a76 Generated table #17@0: 27 keys, 57395 bytes
+2025/08/03-14:01:50.355 a76 Compacted 1@0 + 1@1 files => 57395 bytes
+2025/08/03-14:01:50.356 a76 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-14:01:50.356 a76 Delete type=2 #16
+2025/08/03-14:01:50.356 a76 Delete type=2 #14

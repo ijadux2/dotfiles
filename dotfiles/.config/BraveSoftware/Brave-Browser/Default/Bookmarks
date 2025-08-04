@@ -1,0 +1,47 @@
+{
+   "checksum": "83b01206a5763693355a3193d076e207",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13398687015754240",
+            "date_last_used": "0",
+            "guid": "e2d72b17-13c4-4bdf-9fdc-ec0c8a9a34e0",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Perplexity",
+            "type": "url",
+            "url": "https://www.perplexity.ai/"
+         } ],
+         "date_added": "13398684835772263",
+         "date_last_used": "0",
+         "date_modified": "13398687015754240",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13398684835772263",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13398684835772263",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

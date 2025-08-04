@@ -1,0 +1,15 @@
+[Default Applications]
+text/html=com.brave.Browser.desktop
+x-scheme-handler/http=com.brave.Browser.desktop
+x-scheme-handler/https=com.brave.Browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+application/xhtml+xml=com.brave.Browser.desktop
+application/toml=codium.desktop
+
+[Added Associations]
+x-scheme-handler/http=com.brave.Browser.desktop;brave-browser.desktop;
+application/xhtml+xml=com.brave.Browser.desktop;brave-browser.desktop;
+text/html=com.brave.Browser.desktop;brave-browser.desktop;
+x-scheme-handler/https=com.brave.Browser.desktop;brave-browser.desktop;
+application/toml=codium.desktop;

@@ -1,0 +1,102 @@
+2025-08-03 13:57:03.130 [info] Extension host with pid 12184 started
+2025-08-03 13:57:03.197 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-03 13:57:03.213 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-03 13:57:03.285 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-03 13:57:03.464 [info] Eager extensions activated
+2025-08-03 13:57:03.531 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 13:57:03.538 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 13:57:06.877 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-03 13:57:40.190 [info] ExtensionService#_doActivateExtension Blackboxapp.blackboxagent, startup: false, activationEvent: 'onWalkthrough:BLACKBOXAIWalkthrough'
+2025-08-03 13:57:42.542 [error] NotFound: The extension 'Blackboxapp.blackbox' cannot be installed because it was not found.
+    at tct.install (vscode-file://vscode-app/nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2509:42201)
+    at async handler (vscode-file://vscode-app/nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2521:5467)
+2025-08-03 13:58:27.808 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-03 13:58:27.881 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-03 13:58:28.021 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-03 14:00:15.632 [info] ExtensionService#_doActivateExtension BrandonKirbyson.vscode-animations, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 14:00:31.885 [info] ExtensionService#_doActivateExtension drcika.apc-extension, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 14:00:31.892 [error] Activating extension drcika.apc-extension failed due to an error:
+2025-08-03 14:00:31.892 [error] TypeError: Cannot read properties of undefined (reading 'filename')
+	at Object.<anonymous> (/home/ijadux2/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal/dist/patch.js:17:52)
+	at Module._compile (node:internal/modules/cjs/loader:1544:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1629:10)
+	at Module.load (node:internal/modules/cjs/loader:1282:32)
+	at Module._load (node:internal/modules/cjs/loader:1103:12)
+	at c._load (node:electron/js2c/node_init:2:16955)
+	at e._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:1544)
+	at t._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:28832)
+	at i._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:22856)
+	at Module.require (node:internal/modules/cjs/loader:1305:19)
+	at require (node:internal/modules/helpers:182:18)
+	at Object.<anonymous> (/home/ijadux2/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal/dist/extension.js:7:17)
+	at Module._compile (node:internal/modules/cjs/loader:1544:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1629:10)
+	at Module.load (node:internal/modules/cjs/loader:1282:32)
+	at Module._load (node:internal/modules/cjs/loader:1103:12)
+	at c._load (node:electron/js2c/node_init:2:16955)
+	at e._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:1544)
+	at t._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:28832)
+	at i._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:22856)
+	at Module.require (node:internal/modules/cjs/loader:1305:19)
+	at require (node:internal/modules/helpers:182:18)
+	at PQ._doLoadModule (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:1632)
+2025-08-03 14:00:31.893 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-03 14:00:31.931 [info] Extension host with pid 12184 exiting with code 0
+2025-08-03 14:00:33.683 [info] Extension host with pid 12539 started
+2025-08-03 14:00:33.720 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-03 14:00:33.761 [info] ExtensionService#_doActivateExtension Blackboxapp.blackboxagent, startup: false, activationEvent: 'onWalkthrough:BLACKBOXAIWalkthrough'
+2025-08-03 14:00:34.831 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-03 14:00:34.836 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-03 14:00:34.847 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-03 14:00:34.897 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-03 14:00:34.958 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-03 14:00:34.998 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-03 14:00:35.097 [info] Eager extensions activated
+2025-08-03 14:00:35.123 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 14:00:35.126 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 14:00:35.160 [info] ExtensionService#_doActivateExtension BrandonKirbyson.vscode-animations, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 14:00:35.164 [info] ExtensionService#_doActivateExtension drcika.apc-extension, startup: false, activationEvent: 'onStartupFinished'
+2025-08-03 14:00:35.168 [error] Activating extension drcika.apc-extension failed due to an error:
+2025-08-03 14:00:35.168 [error] TypeError: Cannot read properties of undefined (reading 'filename')
+	at Object.<anonymous> (/home/ijadux2/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal/dist/patch.js:17:52)
+	at Module._compile (node:internal/modules/cjs/loader:1544:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1629:10)
+	at Module.load (node:internal/modules/cjs/loader:1282:32)
+	at Module._load (node:internal/modules/cjs/loader:1103:12)
+	at c._load (node:electron/js2c/node_init:2:16955)
+	at e._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:1544)
+	at t._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:28832)
+	at i._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:22856)
+	at Module.require (node:internal/modules/cjs/loader:1305:19)
+	at require (node:internal/modules/helpers:182:18)
+	at Object.<anonymous> (/home/ijadux2/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal/dist/extension.js:7:17)
+	at Module._compile (node:internal/modules/cjs/loader:1544:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1629:10)
+	at Module.load (node:internal/modules/cjs/loader:1282:32)
+	at Module._load (node:internal/modules/cjs/loader:1103:12)
+	at c._load (node:electron/js2c/node_init:2:16955)
+	at e._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:1544)
+	at t._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:28832)
+	at i._load (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:22856)
+	at Module.require (node:internal/modules/cjs/loader:1305:19)
+	at require (node:internal/modules/helpers:182:18)
+	at PQ._doLoadModule (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:1632)
+2025-08-03 14:00:39.586 [error] Error: command 'apc.extension.enable' not found
+    at Hje._tryExecuteCommand (vscode-file://vscode-app/nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1977)
+    at Hje.executeCommand (vscode-file://vscode-app/nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:1845:1875)
+2025-08-03 14:01:58.269 [info] ExtensionService#_doActivateExtension jnoortheen.nix-ide, startup: false, activationEvent: 'onLanguage:nix'
+2025-08-03 14:02:02.155 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-03 14:02:02.170 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+	at z4 (/home/ijadux2/.vscode-oss/extensions/jnoortheen.nix-ide-0.4.22-universal/dist/extension.js:44:45451)
+	at Object.DO (/home/ijadux2/.vscode-oss/extensions/jnoortheen.nix-ide-0.4.22-universal/dist/extension.js:44:48473)
+	at PQ._deactivate (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:14502)
+	at file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:12013
+	at Array.map (<anonymous>)
+	at PQ._deactivateAll (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:12001)
+	at PQ.terminate (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:12354)
+	at v8.terminate (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:1602)
+	at ds (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:5829)
+	at MessagePortMain.<anonymous> (file:///nix/store/hkli1fcbdw2xqqs23clp6f6djac2dh1q-vscodium-1.100.13210/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:225:2284)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-08-03 14:02:02.173 [info] Extension host with pid 12539 exiting with code 0

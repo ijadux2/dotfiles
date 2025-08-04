@@ -1,0 +1,199 @@
+2025/08/03-14:23:56.418 bf5 Reusing MANIFEST /home/ijadux2/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2025/08/03-14:23:56.418 bf5 Recovering log #15
+2025/08/03-14:23:56.440 bf5 Level-0 table #19: started
+2025/08/03-14:23:56.445 bf5 Level-0 table #19: 246844 bytes OK
+2025/08/03-14:23:56.450 bf5 Delete type=0 #15
+2025/08/03-14:34:59.774 bf5 Compacting 1@0 + 1@1 files
+2025/08/03-14:34:59.783 bf5 Generated table #21@0: 39 keys, 58894 bytes
+2025/08/03-14:34:59.783 bf5 Compacted 1@0 + 1@1 files => 58894 bytes
+2025/08/03-14:34:59.785 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-14:34:59.785 bf5 Delete type=2 #17
+2025/08/03-14:34:59.785 bf5 Delete type=2 #19
+2025/08/03-14:51:06.091 bf5 Level-0 table #23: started
+2025/08/03-14:51:06.100 bf5 Level-0 table #23: 254778 bytes OK
+2025/08/03-14:51:06.102 bf5 Delete type=0 #20
+2025/08/03-14:59:02.290 bf5 Level-0 table #25: started
+2025/08/03-14:59:02.307 bf5 Level-0 table #25: 247805 bytes OK
+2025/08/03-14:59:02.309 bf5 Delete type=0 #22
+2025/08/03-15:06:02.450 bf5 Compacting 2@0 + 1@1 files
+2025/08/03-15:06:02.473 bf5 Generated table #26@0: 75 keys, 65312 bytes
+2025/08/03-15:06:02.473 bf5 Compacted 2@0 + 1@1 files => 65312 bytes
+2025/08/03-15:06:02.475 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-15:06:02.475 bf5 Delete type=2 #21
+2025/08/03-15:06:02.475 bf5 Delete type=2 #23
+2025/08/03-15:06:02.475 bf5 Delete type=2 #25
+2025/08/03-15:10:22.547 bf5 Level-0 table #28: started
+2025/08/03-15:10:22.568 bf5 Level-0 table #28: 248799 bytes OK
+2025/08/03-15:10:22.571 bf5 Delete type=0 #24
+2025/08/03-15:20:03.660 bf5 Compacting 1@0 + 1@1 files
+2025/08/03-15:20:03.669 bf5 Generated table #29@0: 84 keys, 66772 bytes
+2025/08/03-15:20:03.669 bf5 Compacted 1@0 + 1@1 files => 66772 bytes
+2025/08/03-15:20:03.670 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-15:20:03.671 bf5 Delete type=2 #28
+2025/08/03-15:20:03.671 bf5 Delete type=2 #26
+2025/08/03-15:26:49.727 bf5 Level-0 table #31: started
+2025/08/03-15:26:49.745 bf5 Level-0 table #31: 252263 bytes OK
+2025/08/03-15:26:49.747 bf5 Delete type=0 #27
+2025/08/03-15:34:04.968 bf5 Compacting 1@0 + 1@1 files
+2025/08/03-15:34:04.977 bf5 Generated table #32@0: 95 keys, 68117 bytes
+2025/08/03-15:34:04.977 bf5 Compacted 1@0 + 1@1 files => 68117 bytes
+2025/08/03-15:34:04.978 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-15:34:04.978 bf5 Delete type=2 #31
+2025/08/03-15:34:04.978 bf5 Delete type=2 #29
+2025/08/03-15:34:43.195 bf5 Level-0 table #34: started
+2025/08/03-15:34:43.206 bf5 Level-0 table #34: 253576 bytes OK
+2025/08/03-15:34:43.209 bf5 Delete type=0 #30
+2025/08/03-15:36:47.256 bf5 Level-0 table #36: started
+2025/08/03-15:36:47.264 bf5 Level-0 table #36: 251448 bytes OK
+2025/08/03-15:36:47.266 bf5 Delete type=0 #33
+2025/08/03-15:41:05.344 bf5 Compacting 2@0 + 1@1 files
+2025/08/03-15:41:05.357 bf5 Generated table #37@0: 119 keys, 72430 bytes
+2025/08/03-15:41:05.358 bf5 Compacted 2@0 + 1@1 files => 72430 bytes
+2025/08/03-15:41:05.359 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-15:41:05.359 bf5 Delete type=2 #32
+2025/08/03-15:41:05.359 bf5 Delete type=2 #34
+2025/08/03-15:41:05.359 bf5 Delete type=2 #36
+2025/08/03-15:41:40.352 bf5 Level-0 table #39: started
+2025/08/03-15:41:40.364 bf5 Level-0 table #39: 252916 bytes OK
+2025/08/03-15:41:40.367 bf5 Delete type=0 #35
+2025/08/03-15:45:49.069 bf5 Level-0 table #41: started
+2025/08/03-15:45:49.075 bf5 Level-0 table #41: 251282 bytes OK
+2025/08/03-15:45:49.077 bf5 Delete type=0 #38
+2025/08/03-15:50:45.626 bf5 Level-0 table #43: started
+2025/08/03-15:50:45.638 bf5 Level-0 table #43: 251379 bytes OK
+2025/08/03-15:50:45.640 bf5 Delete type=0 #40
+2025/08/03-15:56:05.875 bf5 Compacting 3@0 + 1@1 files
+2025/08/03-15:56:05.884 bf5 Generated table #44@0: 112 keys, 70761 bytes
+2025/08/03-15:56:05.884 bf5 Compacted 3@0 + 1@1 files => 70761 bytes
+2025/08/03-15:56:05.886 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-15:56:05.886 bf5 Delete type=2 #37
+2025/08/03-15:56:05.886 bf5 Delete type=2 #41
+2025/08/03-15:56:05.886 bf5 Delete type=2 #43
+2025/08/03-15:56:05.886 bf5 Delete type=2 #39
+2025/08/03-15:56:05.892 bf4 Level-0 table #46: started
+2025/08/03-15:56:05.898 bf4 Level-0 table #46: 252681 bytes OK
+2025/08/03-15:56:05.900 bf4 Delete type=0 #42
+2025/08/03-16:01:06.006 bf5 Level-0 table #48: started
+2025/08/03-16:01:06.015 bf5 Level-0 table #48: 252783 bytes OK
+2025/08/03-16:01:06.017 bf5 Delete type=0 #45
+2025/08/03-16:09:06.195 bf5 Compacting 2@0 + 1@1 files
+2025/08/03-16:09:06.205 bf5 Generated table #49@0: 102 keys, 68980 bytes
+2025/08/03-16:09:06.205 bf5 Compacted 2@0 + 1@1 files => 68980 bytes
+2025/08/03-16:09:06.207 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-16:09:06.207 bf5 Delete type=2 #44
+2025/08/03-16:09:06.207 bf5 Delete type=2 #48
+2025/08/03-16:09:06.207 bf5 Delete type=2 #46
+2025/08/03-16:12:35.852 bf5 Level-0 table #51: started
+2025/08/03-16:12:35.871 bf5 Level-0 table #51: 255211 bytes OK
+2025/08/03-16:12:35.873 bf5 Delete type=0 #47
+2025/08/03-16:22:06.642 bf5 Compacting 1@0 + 1@1 files
+2025/08/03-16:22:06.659 bf5 Generated table #52@0: 103 keys, 68016 bytes
+2025/08/03-16:22:06.659 bf5 Compacted 1@0 + 1@1 files => 68016 bytes
+2025/08/03-16:22:06.663 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-16:22:06.663 bf5 Delete type=2 #51
+2025/08/03-16:22:06.663 bf5 Delete type=2 #49
+2025/08/03-16:22:31.638 bf5 Level-0 table #54: started
+2025/08/03-16:22:31.651 bf5 Level-0 table #54: 258457 bytes OK
+2025/08/03-16:22:31.655 bf5 Delete type=0 #50
+2025/08/03-16:28:16.454 bf5 Level-0 table #56: started
+2025/08/03-16:28:16.463 bf5 Level-0 table #56: 258216 bytes OK
+2025/08/03-16:28:16.465 bf5 Delete type=0 #53
+2025/08/03-16:35:07.042 bf5 Compacting 2@0 + 1@1 files
+2025/08/03-16:35:07.057 bf5 Generated table #57@0: 119 keys, 70090 bytes
+2025/08/03-16:35:07.057 bf5 Compacted 2@0 + 1@1 files => 70090 bytes
+2025/08/03-16:35:07.058 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-16:35:07.059 bf5 Delete type=2 #54
+2025/08/03-16:35:07.059 bf5 Delete type=2 #56
+2025/08/03-16:35:07.059 bf5 Delete type=2 #52
+2025/08/03-16:38:07.126 bf5 Level-0 table #59: started
+2025/08/03-16:38:07.145 bf5 Level-0 table #59: 257464 bytes OK
+2025/08/03-16:38:07.147 bf5 Delete type=0 #55
+2025/08/03-16:43:07.237 bf4 Level-0 table #61: started
+2025/08/03-16:43:07.257 bf4 Level-0 table #61: 257771 bytes OK
+2025/08/03-16:43:07.259 bf4 Delete type=0 #58
+2025/08/03-16:46:45.330 bf5 Level-0 table #63: started
+2025/08/03-16:46:45.342 bf5 Level-0 table #63: 257961 bytes OK
+2025/08/03-16:46:45.344 bf5 Delete type=0 #60
+2025/08/03-16:51:07.435 bf5 Compacting 3@0 + 1@1 files
+2025/08/03-16:51:07.456 bf5 Generated table #64@0: 128 keys, 70336 bytes
+2025/08/03-16:51:07.456 bf5 Compacted 3@0 + 1@1 files => 70336 bytes
+2025/08/03-16:51:07.458 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-16:51:07.458 bf5 Delete type=2 #59
+2025/08/03-16:51:07.458 bf5 Delete type=2 #61
+2025/08/03-16:51:07.458 bf5 Delete type=2 #57
+2025/08/03-16:51:07.458 bf5 Delete type=2 #63
+2025/08/03-16:51:52.445 bf5 Level-0 table #66: started
+2025/08/03-16:51:52.457 bf5 Level-0 table #66: 258500 bytes OK
+2025/08/03-16:51:52.459 bf5 Delete type=0 #62
+2025/08/03-16:55:42.543 bf5 Level-0 table #68: started
+2025/08/03-16:55:42.556 bf5 Level-0 table #68: 259312 bytes OK
+2025/08/03-16:55:42.558 bf5 Delete type=0 #65
+2025/08/03-17:01:07.702 bf5 Level-0 table #70: started
+2025/08/03-17:01:07.709 bf5 Level-0 table #70: 258833 bytes OK
+2025/08/03-17:01:07.712 bf5 Delete type=0 #67
+2025/08/03-17:06:07.815 bf5 Compacting 3@0 + 1@1 files
+2025/08/03-17:06:07.829 bf5 Generated table #71@0: 135 keys, 69837 bytes
+2025/08/03-17:06:07.829 bf5 Compacted 3@0 + 1@1 files => 69837 bytes
+2025/08/03-17:06:07.830 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-17:06:07.830 bf5 Delete type=2 #66
+2025/08/03-17:06:07.830 bf5 Delete type=2 #64
+2025/08/03-17:06:07.830 bf5 Delete type=2 #70
+2025/08/03-17:06:07.830 bf5 Delete type=2 #68
+2025/08/03-17:10:12.910 bf5 Level-0 table #73: started
+2025/08/03-17:10:12.936 bf5 Level-0 table #73: 260240 bytes OK
+2025/08/03-17:10:12.938 bf5 Delete type=0 #69
+2025/08/03-17:19:08.434 bf5 Compacting 1@0 + 1@1 files
+2025/08/03-17:19:08.444 bf5 Generated table #74@0: 132 keys, 69284 bytes
+2025/08/03-17:19:08.444 bf5 Compacted 1@0 + 1@1 files => 69284 bytes
+2025/08/03-17:19:08.446 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-17:19:08.446 bf5 Delete type=2 #73
+2025/08/03-17:19:08.446 bf5 Delete type=2 #71
+2025/08/03-17:19:24.194 bf5 Level-0 table #76: started
+2025/08/03-17:19:24.206 bf5 Level-0 table #76: 261873 bytes OK
+2025/08/03-17:19:24.209 bf5 Delete type=0 #72
+2025/08/03-17:25:21.748 bf5 Level-0 table #78: started
+2025/08/03-17:25:21.757 bf5 Level-0 table #78: 265127 bytes OK
+2025/08/03-17:25:21.759 bf5 Delete type=0 #75
+2025/08/03-17:29:29.429 bf5 Level-0 table #80: started
+2025/08/03-17:29:29.450 bf5 Level-0 table #80: 263032 bytes OK
+2025/08/03-17:29:29.453 bf5 Delete type=0 #77
+2025/08/03-17:35:09.889 bf5 Compacting 3@0 + 1@1 files
+2025/08/03-17:35:09.915 bf5 Generated table #81@0: 145 keys, 72307 bytes
+2025/08/03-17:35:09.915 bf5 Compacted 3@0 + 1@1 files => 72307 bytes
+2025/08/03-17:35:09.916 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-17:35:09.916 bf5 Delete type=2 #78
+2025/08/03-17:35:09.916 bf5 Delete type=2 #80
+2025/08/03-17:35:09.916 bf5 Delete type=2 #76
+2025/08/03-17:35:09.916 bf5 Delete type=2 #74
+2025/08/03-17:36:09.926 bf5 Level-0 table #83: started
+2025/08/03-17:36:09.941 bf5 Level-0 table #83: 262145 bytes OK
+2025/08/03-17:36:09.944 bf5 Delete type=0 #79
+2025/08/03-17:46:10.250 bf5 Level-0 table #85: started
+2025/08/03-17:46:10.273 bf5 Level-0 table #85: 261484 bytes OK
+2025/08/03-17:46:10.276 bf5 Delete type=0 #82
+2025/08/03-17:53:10.586 bf5 Compacting 2@0 + 1@1 files
+2025/08/03-17:53:10.607 bf5 Generated table #86@0: 135 keys, 70065 bytes
+2025/08/03-17:53:10.607 bf5 Compacted 2@0 + 1@1 files => 70065 bytes
+2025/08/03-17:53:10.609 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-17:53:10.609 bf5 Delete type=2 #81
+2025/08/03-17:53:10.609 bf5 Delete type=2 #83
+2025/08/03-17:53:10.609 bf5 Delete type=2 #85
+2025/08/03-17:53:10.609 bf5 Level-0 table #88: started
+2025/08/03-17:53:10.615 bf5 Level-0 table #88: 263175 bytes OK
+2025/08/03-17:53:10.616 bf5 Delete type=0 #84
+2025/08/03-18:00:39.161 bf5 Level-0 table #90: started
+2025/08/03-18:00:39.179 bf5 Level-0 table #90: 265885 bytes OK
+2025/08/03-18:00:39.181 bf5 Delete type=0 #87
+2025/08/03-18:09:11.007 bf5 Compacting 2@0 + 1@1 files
+2025/08/03-18:09:11.024 bf5 Generated table #91@0: 141 keys, 70317 bytes
+2025/08/03-18:09:11.024 bf5 Compacted 2@0 + 1@1 files => 70317 bytes
+2025/08/03-18:09:11.025 bf5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/03-18:09:11.025 bf5 Delete type=2 #90
+2025/08/03-18:09:11.026 bf5 Delete type=2 #88
+2025/08/03-18:09:11.026 bf5 Delete type=2 #86
+2025/08/03-18:13:11.136 bf5 Level-0 table #93: started
+2025/08/03-18:13:11.154 bf5 Level-0 table #93: 267581 bytes OK
+2025/08/03-18:13:11.156 bf5 Delete type=0 #89
+2025/08/03-18:28:37.692 bf4 Level-0 table #95: started
+2025/08/03-18:28:37.700 bf4 Level-0 table #95: 263645 bytes OK
+2025/08/03-18:28:37.704 bf4 Delete type=0 #92

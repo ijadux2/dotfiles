@@ -1,0 +1,10 @@
+2025-08-03 15:39:24.933 [info] Started local extension host with pid 17443.
+2025-08-03 15:39:24.959 [info] ComputeTargetPlatform: linux-x64
+2025-08-03 15:39:25.298 [error] [Blackboxapp.blackboxagent]: Menu item references a command `blackbox.openBillingPortal` which is not defined in the 'commands' section.
+2025-08-03 15:39:26.149 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1248.0478515625kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2025-08-03 15:39:28.916 [info] [perf] Render performance baseline is 35ms
+2025-08-03 15:39:29.984 [warning] [mainThreadStorage] large extension state detected (extensionId: Blackboxapp.blackboxagent, global: true): 1248.0478515625kb. Consider to use 'storageUri' or 'globalStorageUri' to store this data on disk instead.
+2025-08-03 15:39:47.269 [error] [Extension Host] [RevisionManager] Error reading tasks directory: Error: ENOENT: no such file or directory, scandir '/home/ijadux2/.config/VSCodium/User/globalStorage/blackboxapp.blackboxagent/tasks'
+	at async readdir (node:internal/fs/promises:952:18)
+	at async r.getAllRevisions (/home/ijadux2/.vscode-oss/extensions/blackboxapp.blackboxagent-3.3.33-universal/dist/extension.js:912:432)
+	at async r.cleanupOldRevisions (/home/ijadux2/.vscode-oss/extensions/blackboxapp.blackboxagent-3.3.33-universal/dist/extension.js:910:8080)
