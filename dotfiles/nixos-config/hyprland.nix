@@ -2,7 +2,6 @@
 
 imports = [ 
   ./hypr-keybinds.nix 
-  ./configuration.nix
 ];
 
 
