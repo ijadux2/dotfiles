@@ -11,6 +11,7 @@
  
   home.packages = with pkgs; [
    nitch
+   kitty
    whitesur-gtk-theme
    tokyonight-gtk-theme
    whitesur-icon-theme
@@ -36,12 +37,17 @@
    cowsay
    glib
    gnome-tweaks
-   kitty
    nerd-fonts.caskaydia-cove
    github-desktop
    gnumake
    brave
    gcc
+   gnomeExtensions.blur-my-shell
+   gnomeExtensions.dash-to-dock
+   gnomeExtensions.search-light
+   gnomeExtensions.workspace-switcher-manager
+   gnomeExtensions.user-themes
+   gnomeExtensions.clipboard-history   
   ];
 
   programs.zsh = {
@@ -81,4 +87,7 @@
   };
 
   programs.home-manager.enable = true;
+
+  
 }
+
