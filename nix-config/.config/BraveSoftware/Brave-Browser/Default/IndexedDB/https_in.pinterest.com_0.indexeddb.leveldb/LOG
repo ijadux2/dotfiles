@@ -1,5 +1,0 @@
-2025/08/03-15:29:44.870 bf4 Creating DB /home/ijadux2/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb since it was missing.
-2025/08/03-15:29:44.878 bf4 Reusing MANIFEST /home/ijadux2/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_in.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/08/03-15:34:28.014 bf5 Level-0 table #5: started
-2025/08/03-15:34:28.039 bf5 Level-0 table #5: 1776383 bytes OK
-2025/08/03-15:34:28.042 bf5 Delete type=0 #3
