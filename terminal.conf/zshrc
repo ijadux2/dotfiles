@@ -21,6 +21,7 @@ alias lt='ls --tree'
 alias c='cd'
 alias q='cd ..'
 alias yay='pacstall'
+alias dot='cd ~/pista/dotfiles/'
 
 
 eval "$(zoxide init zsh)"
