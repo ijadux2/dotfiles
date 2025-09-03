@@ -20,6 +20,7 @@ alias rene-sharingan='nvim ~/.config/home-manager/home.nix'
 alias lt='ls --tree'
 alias c='cd'
 alias q='cd ..'
+alias yay='pacstall'
 
 
 eval "$(zoxide init zsh)"
