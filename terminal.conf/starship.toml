@@ -64,7 +64,6 @@ style = "bg:red fg:crust"
 
 [os.symbols]
 Mint = "󰀵"
-
 [username]
 show_always = true
 style_user = "bg:red fg:crust"
