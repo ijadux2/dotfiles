@@ -79,6 +79,31 @@
     git
     brave
     vscodium
+    hypridle
+    hyprlock
+    hyprpaper
+    waybar
+    rofi-wayland
+    dunset
+    swaybg
+    wl-clipboard
+    grim
+    slurp
+    nwg-look
+    hyprpolkitagent
+    wlogout
+    nwg-displays
+    cliphist
+    thunar
+    zsh
+    bluez
+    blueman
+    curl
+    git
+    pciutils
+    nerd-fonts.victor-mono
+    nerd-fonts.jetbrains-mono
+    nerd-fonts.fantasque-sans-mono
   ];
 
   system.stateVersion = "25.05"; # Did you read the comment?
