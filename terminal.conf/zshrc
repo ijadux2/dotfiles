@@ -14,6 +14,9 @@ alias m='micro'
 alias ls='lsd'
 alias cd='z'
 alias x='clear'
+alias v='nvim'
+alias sharingan='home-manager switch'
+alias rene-sharingan='nvim ~/.config/home-manager/home.nix'
 
 
 eval "$(zoxide init zsh)"
