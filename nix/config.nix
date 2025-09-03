@@ -3,14 +3,24 @@
 {
   imports =
     [ 
-      ./hardware-configuration.nix
+      ./hyprland.nix
     ];
 
   # Bootloader.
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
 
-  networking.hostName = "nixos"; 
+  networking.hostName = "Deaths-Of-Deames";
+  
+  # nix config and hyprland setup !
+  nix.settings.experimental-features = [ "nix-command" "flakes" ];
+
+  programs.hyprland.enable = true;
+
+  hyprland.enable = true;
+
+  environment.sessionVariables.NIXOS_OZONE_WL = "1";
+
 
   # Enable networking
   networking.networkmanager.enable = true;
@@ -46,9 +56,9 @@
     thisjack.enable = true;
   };
 
-  users.users.vaibhav = {
+  users.users.ijadux2 = {
     isNormalUser = true;
-    description = "vaibhav";
+    description = "ijadux2";
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
     #  thunderbird
