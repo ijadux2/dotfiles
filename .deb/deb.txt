@@ -1,6 +1,0 @@
-this is only for debian-based operating sysytem !
-and not for other use !
-
-use this directory with care !
-
-# ijadux2 custum deb pakages 
