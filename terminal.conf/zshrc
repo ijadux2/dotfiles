@@ -27,6 +27,10 @@ alias dot='cd ~/pista/dotfiles/'
 eval "$(zoxide init zsh)"
 eval "$(starship init zsh)"
 
+# for strtup terminal command 
+# you can edit this for your pefernce ! 
+nitch
+
 # for transient prompt with starship or other prompt !! 
 # then remove the hash if you want t-prompt then only . 
 # uncomment this line on your favor for development ! 
