@@ -24,6 +24,7 @@ alias q='cd ..'
 alias yay='pacstall'
 alias dot='cd ~/pista/dotfiles/'
 alias gh='github-desktop'
+alias pi='pipes-rs'
 
 
 eval "$(zoxide init zsh)"
@@ -35,6 +36,7 @@ export TERM="xterm-256color"
 # for strtup terminal command 
 # you can edit this for your pefernce ! 
 #nitch
+fastfetch
 
 # for transient prompt with starship or other prompt !! 
 # then remove the hash if you want t-prompt then only . 
