@@ -29,9 +29,12 @@ alias gh='github-desktop'
 eval "$(zoxide init zsh)"
 eval "$(starship init zsh)"
 
+export TERM="xterm-256color"
+
+
 # for strtup terminal command 
 # you can edit this for your pefernce ! 
-nitch
+#nitch
 
 # for transient prompt with starship or other prompt !! 
 # then remove the hash if you want t-prompt then only . 
