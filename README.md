@@ -142,7 +142,7 @@ dotfiles/
 2. Install dependencies (example for Ubuntu/Debian):
    ```bash
    sudo apt update
-   sudo apt install neovim zsh kitty ghostty nushell curl git
+   sudo apt install neovim zsh kitty ghostty curl git
    # Install Oh My Zsh
    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
    # Install Starship
