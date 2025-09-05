@@ -3,7 +3,7 @@
 {
   imports =
     [ 
-      ./hyprland.nix
+      ./hardware-configuration.nix
     ];
 
   # Bootloader.
@@ -16,8 +16,6 @@
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
 
   programs.hyprland.enable = true;
-
-  hyprland.enable = true;
 
   environment.sessionVariables.NIXOS_OZONE_WL = "1";
 
