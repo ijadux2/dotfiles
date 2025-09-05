@@ -12,6 +12,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias m='micro'
 alias ls='lsd'
+alias l='ls --tree'
 alias cd='z'
 alias x='clear'
 alias v='nvim'
