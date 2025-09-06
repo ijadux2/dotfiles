@@ -57,6 +57,7 @@
   users.users.ijadux2 = {
     isNormalUser = true;
     description = "ijadux2";
+    shell = "pkgs.zsh"; 
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
     #  thunderbird
@@ -73,7 +74,6 @@
   # $ nix search wget
   environment.systemPackages = with pkgs; [
     wget
-    vscodium
     git
     brave
     vscodium
@@ -82,17 +82,26 @@
     hyprpaper
     waybar
     rofi-wayland
-    dunset
     swaybg
     wl-clipboard
     grim
     slurp
-    nwg-look
+    nwg-look 
     hyprpolkitagent
     wlogout
     nwg-displays
     cliphist
-    thunar
+    nautilus
+    ags
+    libsForQt5.qt5ct
+    catppuccin-qt5ct
+    kdePackages.qt6ct
+    wallust
+    swappy
+    btop
+    cava
+    fastfetch
+    neovim
     zsh
     bluez
     blueman
